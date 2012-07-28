@@ -172,57 +172,32 @@ chris@chriscorrigan.com
 
 		
 
-# Songs and tunes
+# The practice of balancing rocks
 
-In addition to playing a number of instruments, I also make songs. Over the 
-years I have been writing songs about Bowen Island, where I live. In general 
-these are social songs, made for singing in groups and expressing a common 
-tie to our island and our community. Here are the lyrics and some mp3s of these 
-songs:
+![][54] One of the practices I have cultivated for many years is the art of 
+rock balancing. I was initially inspired in this by watching rock balancing**** 
+artists along the waterfront in Vancouver in the mid nineties. I was amazed 
+at the serene beauty of large rocks balanced at improbable angles.
 
-[Our Island’s Ours Again][54] – A song about the end of summer. Traditionally 
-on the Gulf Island of British Columbia, islanders send off the summer visitors 
-with hi-jinx and shenanigans. The irony of course is that with the end of summer, 
-we may have our island’s back to ourselves, but we also have eight months of 
-rain to look forward to. This song is sung to the tune of “Rolling Down to 
-Old Maui,” an old sea shanty.
+When I began trying this for myself, I discovered that the practice is deeply 
+reflective and highly instructive. It is a calming meditation, inviting rocks 
+to find a balance with one another, and it is a lovely metaphor for the leadership 
+qualities of facilitating and holding space. Often, as part of the Art of Hosting 
+workshops I help teach, I offer [rock balancing**** as a morning practice][55], 
+to bring presence and calm to the day ahead.
 
-* 
-[Here is an mp3][55] of this song, sung to a Labour Day ferry by myself and Alice Bernards.
+If you would like to join me for an hour or two of rock balancing**** on Bowen 
+Island or elsewhere, please feel free to contact me. I’m always up for play. 
+I can also offer short workshops in conferences, gatherings and retreat.
 
-[Song for the Cape][56] – Cape Roger Curtis is a beautiful piece of wild land 
-on the southwest point of Bowen Island. For many years, it has been the subject 
-of controversial development proposals that threatened the almost sacred character 
-of the land. This song, based on an old Irish tune and using Irish devices 
-such as a woman representing the spirit of the land, is a call to be mindful 
-of how we treat this incredible place.
-
-* [A video of me singing this piece on BowenTV][57]
-
-[Thank God We Made the Ferry!][58] – Living on an island means depending on 
-the ferry if we want to go to the continent. Many islanders work in Vancouver 
-and so their daily commute takes them across the beautiful Queen Charlotte 
-Channel to Horseshoe Bay on the Queen of Capilano. This song expresses the 
-love/hate relationship islanders have with our ferry, which often suffers from 
-overloads and operating delays. You hate it until you are on it!
-
-[The Jewel in the Sound][59] – In 2007, I was asked to compose a song for our 
-annual festival, Bowfest. The theme that year was “Treasure Island.” This song 
-captures the preciousness of what we have here, season to season, both in our 
-natural setting and within the community of people who make Bowen home.
-
-I have composed a number of traditional Irish tunes over the years as well, 
-and some of these have been recorded by myself and others:
-
-* 
-[Kavana’s Craic][60] (click to listen) was recorded by the Irish Heather session players on “In the Heather”
-* Hawtin’s return has been recorded by [The Maenads][61], as well as by Randy Vic and me on the Bowen Island Music Exchange CD.
-* Farwell to Moy was been recorded on the Bowen Island Music Exchange CD by Julie Vik and Corbin Keep.
+Since 2007 I have begun taking photographs of rocks I have balanced in various 
+places to which I have travelled. I invite you to enjoy a slide show of my 
+collection at [my flickr gallery.][56]
 
 * Share:
 * 
 
-* [][62]
+* [][57]
 * 
 
 * 
@@ -243,7 +218,7 @@ and some of these have been recorded by myself and others:
 
 |
 
-[ ![][63]][64]Subscribe by email
+[ ![][58]][59]Subscribe by email
 
 |
 |
@@ -251,38 +226,38 @@ and some of these have been recorded by myself and others:
 |
 |
 
-[ ![][65]][2]Posts
+[ ![][60]][2]Posts
 
 |
 |
 
-[ ![][66]][67]Comments
+[ ![][61]][62]Comments
 
 |
 
 ### 
-[![RSS][68]][69] [Excellent reads][70]
+[![RSS][63]][64] [Excellent reads][65]
 
-* [Ten Points Everyone Should Know About the Quebec Student Movement | Coop média de Montréal][71]
-* [Birth of a Meme: The Rise of Culture Tech][72]
-* [The Rise of the New Groupthink - NYTimes.com][73]
-* [Confessions of a Recovering Environmentalist | Orion Magazine][74]
-* [Maggie: A Girl of the Streets and Other Writings About New York by Stephen Crane - read the free ebook now from ePub Bud!][75]
-* [One Town's War on Gay Teens | Politics News | Rolling Stone][76]
-* [ESPN - OTL: Test of Time - E-ticket][77]
-* [Lawrence Hilditch | Wounds Still Burn in Quiet Irish Village - Los Angeles Times][78]
-* [Responses | 2012 Annual Question | Edge][79]
-* [Day’s End][80]
+* [Ten Points Everyone Should Know About the Quebec Student Movement | Coop média de Montréal][66]
+* [Birth of a Meme: The Rise of Culture Tech][67]
+* [The Rise of the New Groupthink - NYTimes.com][68]
+* [Confessions of a Recovering Environmentalist | Orion Magazine][69]
+* [Maggie: A Girl of the Streets and Other Writings About New York by Stephen Crane - read the free ebook now from ePub Bud!][70]
+* [One Town's War on Gay Teens | Politics News | Rolling Stone][71]
+* [ESPN - OTL: Test of Time - E-ticket][72]
+* [Lawrence Hilditch | Wounds Still Burn in Quiet Irish Village - Los Angeles Times][73]
+* [Responses | 2012 Annual Question | Edge][74]
+* [Day’s End][75]
 
 |
 
 ----
 
-This page was forked with permission from [http://chriscorrigan.com/parkinglot/?page_id=2246][12]
+This page was forked with permission from [http://chriscorrigan.com/parkinglot/?page_id=1460][15]
 
 ----
 
-[Creative Commons license (CC BY-NC 3.0)][81]
+[Creative Commons license (CC BY-NC 3.0)][76]
 
 [1]: http://chriscorrigan.com/parkinglot/
 [2]: http://chriscorrigan.com/parkinglot/?feed=rss2 (Subscribe to the POSTS feed)
@@ -338,31 +313,26 @@ This page was forked with permission from [http://chriscorrigan.com/parkinglot/?
 [51]: http://chriscorrigan.com/parkinglot/?category_name=wordpress (Wordpress)
 [52]: http://chriscorrigan.com/parkinglot/?category_name=world-cafe (World Cafe)
 [53]: http://chriscorrigan.com/parkinglot/?category_name=youth (Youth)
-[54]: http://web.archive.org/web/20071031210526/http://www.chriscorrigan.com/wiki/pmwiki.php?n=Main.OurIslandsOursAgain
-[55]: http://web.archive.org/web/20071031210526/http://www.archive.org/download/Fairwell_To_All_You_Mainlanders/Farewell_to_the_mainlanders_09-02-06.mp3
-[56]: http://web.archive.org/web/20071031210526/http://www.chriscorrigan.com/wiki/pmwiki.php?n=Main.SongForTheCape
-[57]: http://www.youtube.com/watch?v=4zFGoGyTjlE
-[58]: http://web.archive.org/web/20071031210526/http://www.chriscorrigan.com/wiki/pmwiki.php?n=Main.ThankGodWeMadeTheFerry
-[59]: http://web.archive.org/web/20071031210526/http://www.chriscorrigan.com/wiki/pmwiki.php?n=Main.TheJewelInTheSound
-[60]: http://www.chriscorrigan.com/parkinglot/01%20Kavana's%20Craic_The%20Punter's%20Grave.mp3
-[61]: http://www.dancingharp.com/themaenads.htm
-[62]: http://chriscorrigan.com/parkinglot/?page_id=2246&share=facebook (Share on Facebook)
-[63]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/feedburner-email.gif
-[64]: http://feedburner.google.com/fb/a/mailverify?uri=ChrisCorrigan&loc=en_US
-[65]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/post-feed.gif
-[66]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/comment-feed.gif
-[67]: http://chriscorrigan.com/parkinglot/?feed=comments-rss2
-[68]: http://chriscorrigan.com/parkinglot/wp-includes/images/rss.png
-[69]: http://www.instapaper.com/starred/rss/279400/pOmyeEKsb87ikH2bKSo8WtiY (Syndicate this content)
-[70]: http://www.instapaper.com/starred ()
-[71]: http://montreal.mediacoop.ca/story/ten-points-everyone-should-know-about-quebec-student-movement/10896 ( […])
-[72]: http://emergentbydesign.com/2012/05/03/birth-of-a-meme-the-rise-of-culture-tech/ ( […])
-[73]: http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=1&pagewanted=all ( […])
-[74]: http://www.orionmagazine.org/index.php/articles/article/6599/ ( […])
-[75]: http://www.epubbud.com/read.php?g=VDZJZ5Y5&p=57 ( […])
-[76]: http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202?print=true ( […])
-[77]: http://sports.espn.go.com/espn/eticket/story?page=111225/testcricket ( […])
-[78]: http://articles.latimes.com/print/1998/may/17/news/mn-50578 ( […])
-[79]: http://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation ( […])
-[80]: http://nymag.com/print/?/news/9-11/10th-anniversary/frank-rich/ ( […])
-[81]: http://creativecommons.org/licenses/by-nc/3.0/
+[54]: http://farm1.static.flickr.com/170/393642023_c5d73a407b_m.jpg
+[55]: http://www.flickr.com/photos/chriscorrigan/304059688/in/set-72157594486006613/
+[56]: http://www.flickr.com/photos/chriscorrigan/sets/72157594486006613/show/
+[57]: http://chriscorrigan.com/parkinglot/?page_id=1460&share=facebook (Share on Facebook)
+[58]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/feedburner-email.gif
+[59]: http://feedburner.google.com/fb/a/mailverify?uri=ChrisCorrigan&loc=en_US
+[60]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/post-feed.gif
+[61]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/comment-feed.gif
+[62]: http://chriscorrigan.com/parkinglot/?feed=comments-rss2
+[63]: http://chriscorrigan.com/parkinglot/wp-includes/images/rss.png
+[64]: http://www.instapaper.com/starred/rss/279400/pOmyeEKsb87ikH2bKSo8WtiY (Syndicate this content)
+[65]: http://www.instapaper.com/starred ()
+[66]: http://montreal.mediacoop.ca/story/ten-points-everyone-should-know-about-quebec-student-movement/10896 ( […])
+[67]: http://emergentbydesign.com/2012/05/03/birth-of-a-meme-the-rise-of-culture-tech/ ( […])
+[68]: http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=1&pagewanted=all ( […])
+[69]: http://www.orionmagazine.org/index.php/articles/article/6599/ ( […])
+[70]: http://www.epubbud.com/read.php?g=VDZJZ5Y5&p=57 ( […])
+[71]: http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202?print=true ( […])
+[72]: http://sports.espn.go.com/espn/eticket/story?page=111225/testcricket ( […])
+[73]: http://articles.latimes.com/print/1998/may/17/news/mn-50578 ( […])
+[74]: http://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation ( […])
+[75]: http://nymag.com/print/?/news/9-11/10th-anniversary/frank-rich/ ( […])
+[76]: http://creativecommons.org/licenses/by-nc/3.0/
