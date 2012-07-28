@@ -172,56 +172,87 @@ chris@chriscorrigan.com
 
 		
 
-# Books and Papers
+# Music
 
-### Books
+A large part of my life is dedicated to playing music and especially traditional 
+Irish dance music on the wooden flute and guitar. I play and record in British 
+Columbia and frequently I appear on Bowen Island, at a variety of venues, festivals, 
+coffee houses and events. I also sing both in traditional modes and with an 
+Evensong chorale, singing liturgical music.
+
+* [View my dsicography with sound samples and video links.][11]
+* [Learn more about the songs and tunes I have made over the years.][12]
+
+I have appeared on a number of recordings of traditional and contemporary music, 
+written the soundtrack for a play and had my music used in videos.
+
+Over the years, my music has been broadcast on CiTR (Vancouver), Co-op Radio 
+(Vancouver), Trent Radio (Peterborough, Ontario) and the CBC, and has been 
+reviewed in fRoots and the Georgia Straight.
+
+Although more of a traditional folk musician, and therefore not focused on 
+performance, I have nevertheless appeared on stage at the Rogue Folk Club, 
+The Gulf Islands Celtic Music Festival, Endangered Speicies, Steveston Salmon 
+Festival, the Princeton Traditional Music Festival, BowFest, Northwest Folklife 
+in Seattle and the Vancouver Folk Music Festival among other musical gatherings 
+and venues.  On an off I have been active in music scenes in Peterborough, 
+Ontairo and Vancouver BC, and currently I perform and play as often as I can 
+on my home island of Bowen Island, BC.
+
+I have had the pleasure of performing and recording with many interesting and 
+talented musicians over the years. On the Irish and traditional music side 
+this includes Randy Vic, Dave Marshall, Amy Stephen, Andy Hillhouse, Mark Roberts, 
+Steph Custer, Norah Rendell, Neil Hammond, Keona Hammond, John Bartlett, Ryka 
+Ruebsaat, Moritz Behm, Nora Rendell, Dan Compton, and Paul Hawtin. I have also 
+played with others from the jazz, folk, rock, classical and world music realms, 
+including Julie Vik, Chris Coon, John Bottomley, Shawn Pollinger, Jude Neale, 
+Alison Nixon, Pauline LeBel, Buff Allen, Shasta Martinuk and Brian Hoover. 
+
+**Upcoming gigs**
+
+**Regular gigs:**
 
 * 
-[The Tao of Holding Space][54]. The essence of Open Space Technology facilitation is known as “holding space.” This book explores the practice of holding space by reinterpreting the Tao te Ching. While written for Open Space facilitators, it has wide application across a number of facilitation approaches. This book is available for free.
+[Bowen Island Music Arts][54] open mic nights second thursday of every month, Happy Isle Cafe, Bowen Island.
 * 
-[Open Space Technology a User’s Non-Guide][55] Edited by Chris Corrigan and Michael Herman (.pdf). A companion to Harrison Owen’s Open Space Technology: A User’s Guide, this book is an edited conversation between 37 Open Space Technology practitioners. The book is available for free.
-* 
-[The Change Handbook][56]. The definitive guide to facilitating large scale change. I contributed material to the Open Space Technology chapter and experiences with mixing and matching methods.
-* 
-[The Ago of Conversation][57]. If ideas are the currency of our times then this is, undoubtedly, the Age of Conversation, for without the art of dialog, the cut and thrust of debate and discussion, then the economy of ideas would implode under its own heavy weight. Instead, the reverse is true. Far from seeing an implosion, we are living in a time of proliferation — ideas build upon ideas, discussion grows from seeds of thought and single headlines give rise to a thousand medusa-like simulations echoing words whispered somewhere on the other side of the planet. All this — in an instant. In what began as a half dare, the editors, Gavin Heaton and Drew McLellan challenged bloggers around the world to contribute one page — 400 words — on the topic of “conversation”. The resulting book, The Age of Conversation, brings together over 100 of the world’s leading marketers, writers, thinkers and creative innovators in a ground-breaking and unusual publication.
+[Snug Irish session][55], Friday or Saturday nights, Sung Cafe, Bowen Island.
 
-### Interviews and podcasts
+### Instruments
 
-* 
-[Open Space Meetings][58] – from March 2010 an interview with me and two of my colleagues on using Open Space instead of traditional conference formats.
-* 
-[Living and Enjoying Open Spaces with Chris Corrigan][59] – a profile from [my university alumni magazine][60], published in June 2007.
-* 
-[The Tao of Holding Space][61] – An interview about my ebook and my facilitation practice published in [Fieldnotes Issue 12][62], from the Shambhala Institute.
-* 
-[On unconferencing][63] – a podcast conversation with Johnnie Moore and Rob Paterson on the future of unconferencing from July 4, 2005.
-* 
-[Free to do our work][64] (.pdf) – An online interview on empowerment, freedom and Spirit hosted by Doug Germann at [Footprints in the Wind][65] in March 2003.
+**Flutes and whistles**
 
-### Papers and articles
+I play a six key Hammy Hamilton flute made of African Blackwood and a Casey 
+Burns keyless grenadilla flute. I play a bunch of cheap but useful Susato, 
+Generation and Walton whistles.
 
-* 
-[Six observations about seeing][66] – a paper on the leadership capacity of seeing the world around us.
-* 
-[Language and Leadership for Dialogue][67] – a paper on useful language and leadership practices for convening dialogue
-* 
-[Open Space and the Legacy of Education][68] (.pdf) – A paper that uses John Taylor Gatto’s “[Seven Lesson Schoolteacher][69]” essay to explain why people experience freedom shock in Open Space.
+**Guitar**
 
-### Online publishing
+I have two guitars. My pride and joy is a Larrivee D-03 (88823) made and purchased 
+in Vancouver BC in 2006. My old friend is a Yamaha FG-410, which I have had 
+since 1982. It’s nothing special, but I worked on it a little in 1986 to lower 
+the action (no mean feat without a truss rod, especially when you don’t know 
+what you’re doing!) and it has been a good friend for more than 25 years.
 
-Since 2001 I have published two weblogs of my own.  They contain a wealth of 
-my writing and thinking.
+**Didgeridoo**
 
-* [Parking Lot: Living in Open Space][70]
-* [Bowen Island Journal: Life in the Salish Sea][71]
+My didgeridoo was made by termites in Northern Australia and purchased in Perth, 
+Western Australia.
 
-I have collected some of my most significant writing from over the years on 
-a page called [A Collection of Life’s Lessons][5].
+**Djembe**
+
+I have a djembe made by Yendor from Cortes Island BC. It was passed to me by 
+my late father in law Peter Frost.
+
+**Voice**
+
+Courtesy of my parents, who provided the raw material for the vocal cords and 
+refined in my youth by singing along with Freddy Mercury for years. They must 
+not have felt like that was adequate payback, but it made me a true tenor. 
 
 * Share:
 * 
 
-* [][72]
+* [][56]
 * 
 
 * 
@@ -242,7 +273,7 @@ a page called [A Collection of Life’s Lessons][5].
 
 |
 
-[ ![][73]][74]Subscribe by email
+[ ![][57]][58]Subscribe by email
 
 |
 |
@@ -250,38 +281,38 @@ a page called [A Collection of Life’s Lessons][5].
 |
 |
 
-[ ![][75]][2]Posts
+[ ![][59]][2]Posts
 
 |
 |
 
-[ ![][76]][77]Comments
+[ ![][60]][61]Comments
 
 |
 
 ### 
-[![RSS][78]][79] [Excellent reads][80]
+[![RSS][62]][63] [Excellent reads][64]
 
-* [Ten Points Everyone Should Know About the Quebec Student Movement | Coop média de Montréal][81]
-* [Birth of a Meme: The Rise of Culture Tech][82]
-* [The Rise of the New Groupthink - NYTimes.com][83]
-* [Confessions of a Recovering Environmentalist | Orion Magazine][84]
-* [Maggie: A Girl of the Streets and Other Writings About New York by Stephen Crane - read the free ebook now from ePub Bud!][85]
-* [One Town's War on Gay Teens | Politics News | Rolling Stone][86]
-* [ESPN - OTL: Test of Time - E-ticket][87]
-* [Lawrence Hilditch | Wounds Still Burn in Quiet Irish Village - Los Angeles Times][88]
-* [Responses | 2012 Annual Question | Edge][89]
-* [Day’s End][90]
+* [Ten Points Everyone Should Know About the Quebec Student Movement | Coop média de Montréal][65]
+* [Birth of a Meme: The Rise of Culture Tech][66]
+* [The Rise of the New Groupthink - NYTimes.com][67]
+* [Confessions of a Recovering Environmentalist | Orion Magazine][68]
+* [Maggie: A Girl of the Streets and Other Writings About New York by Stephen Crane - read the free ebook now from ePub Bud!][69]
+* [One Town's War on Gay Teens | Politics News | Rolling Stone][70]
+* [ESPN - OTL: Test of Time - E-ticket][71]
+* [Lawrence Hilditch | Wounds Still Burn in Quiet Irish Village - Los Angeles Times][72]
+* [Responses | 2012 Annual Question | Edge][73]
+* [Day’s End][74]
 
 |
 
 ----
 
-This page was forked with permission from [http://chriscorrigan.com/parkinglot/?page_id=1519][7]
+This page was forked with permission from [http://chriscorrigan.com/parkinglot/?page_id=2241][10]
 
 ----
 
-[Creative Commons license (CC BY-NC 3.0)][91]
+[Creative Commons license (CC BY-NC 3.0)][75]
 
 [1]: http://chriscorrigan.com/parkinglot/
 [2]: http://chriscorrigan.com/parkinglot/?feed=rss2 (Subscribe to the POSTS feed)
@@ -337,41 +368,25 @@ This page was forked with permission from [http://chriscorrigan.com/parkinglot/?
 [51]: http://chriscorrigan.com/parkinglot/?category_name=wordpress (Wordpress)
 [52]: http://chriscorrigan.com/parkinglot/?category_name=world-cafe (World Cafe)
 [53]: http://chriscorrigan.com/parkinglot/?category_name=youth (Youth)
-[54]: http://www.archive.org/details/TheTaoOfHoldingSpace
-[55]: http://www.chriscorrigan.com/openspace/nonguide5.pdf
-[56]: http://www.bkconnection.com/ProdDetails.asp?ID=9781576753798&PG=1&Type=AUTH&PCS=BKP
-[57]: http://www.lulu.com/content/1010564
-[58]: http://connectyourmeetings.com/2010/03/10/open-space-meetings/
-[59]: http://www.chriscorrigan.com/wiki/pmwiki.php?n=Main.LivingAndEnjoyingOpenSpacesWithChrisCorrigan
-[60]: http://www.trentmagazine.ca/vol38no2/vol38no2.pdf
-[61]: http://www.shambhalainstitute.org/Fieldnotes/Issue12/holding_space.php
-[62]: http://www.shambhalainstitute.org/Fieldnotes/index.html
-[63]: http://www.johnniemoore.com/blog/archives/001019.php
-[64]: http://www.chriscorrigan.com/papers/free%20to%20do%20our%20work.pdf
-[65]: http://www.footprintsinthewind.com/
-[66]: http://www.chriscorrigan.com/parkinglot/AboutSeeing.pdf
-[67]: http://www.chriscorrigan.com/parkinglot/LanguageAndLeadership.pdf
-[68]: http://www.chriscorrigan.com/papers/educationpaper.pdf
-[69]: http://sine.com/content/7-lesson-schoolteacher.shtml
-[70]: http://www.chriscorrigan.com/parkinglot
-[71]: http://www.chriscorrigan.com/miscellany/bijournal/blogger.html
-[72]: http://chriscorrigan.com/parkinglot/?page_id=1519&share=facebook (Share on Facebook)
-[73]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/feedburner-email.gif
-[74]: http://feedburner.google.com/fb/a/mailverify?uri=ChrisCorrigan&loc=en_US
-[75]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/post-feed.gif
-[76]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/comment-feed.gif
-[77]: http://chriscorrigan.com/parkinglot/?feed=comments-rss2
-[78]: http://chriscorrigan.com/parkinglot/wp-includes/images/rss.png
-[79]: http://www.instapaper.com/starred/rss/279400/pOmyeEKsb87ikH2bKSo8WtiY (Syndicate this content)
-[80]: http://www.instapaper.com/starred ()
-[81]: http://montreal.mediacoop.ca/story/ten-points-everyone-should-know-about-quebec-student-movement/10896 ( […])
-[82]: http://emergentbydesign.com/2012/05/03/birth-of-a-meme-the-rise-of-culture-tech/ ( […])
-[83]: http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=1&pagewanted=all ( […])
-[84]: http://www.orionmagazine.org/index.php/articles/article/6599/ ( […])
-[85]: http://www.epubbud.com/read.php?g=VDZJZ5Y5&p=57 ( […])
-[86]: http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202?print=true ( […])
-[87]: http://sports.espn.go.com/espn/eticket/story?page=111225/testcricket ( […])
-[88]: http://articles.latimes.com/print/1998/may/17/news/mn-50578 ( […])
-[89]: http://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation ( […])
-[90]: http://nymag.com/print/?/news/9-11/10th-anniversary/frank-rich/ ( […])
-[91]: http://creativecommons.org/licenses/by-nc/3.0/
+[54]: http://musiconbowen.com/#/gigsjamsmics/4533492108
+[55]: http://snugsession.blogspot.com/
+[56]: http://chriscorrigan.com/parkinglot/?page_id=2241&share=facebook (Share on Facebook)
+[57]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/feedburner-email.gif
+[58]: http://feedburner.google.com/fb/a/mailverify?uri=ChrisCorrigan&loc=en_US
+[59]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/post-feed.gif
+[60]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/comment-feed.gif
+[61]: http://chriscorrigan.com/parkinglot/?feed=comments-rss2
+[62]: http://chriscorrigan.com/parkinglot/wp-includes/images/rss.png
+[63]: http://www.instapaper.com/starred/rss/279400/pOmyeEKsb87ikH2bKSo8WtiY (Syndicate this content)
+[64]: http://www.instapaper.com/starred ()
+[65]: http://montreal.mediacoop.ca/story/ten-points-everyone-should-know-about-quebec-student-movement/10896 ( […])
+[66]: http://emergentbydesign.com/2012/05/03/birth-of-a-meme-the-rise-of-culture-tech/ ( […])
+[67]: http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=1&pagewanted=all ( […])
+[68]: http://www.orionmagazine.org/index.php/articles/article/6599/ ( […])
+[69]: http://www.epubbud.com/read.php?g=VDZJZ5Y5&p=57 ( […])
+[70]: http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202?print=true ( […])
+[71]: http://sports.espn.go.com/espn/eticket/story?page=111225/testcricket ( […])
+[72]: http://articles.latimes.com/print/1998/may/17/news/mn-50578 ( […])
+[73]: http://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation ( […])
+[74]: http://nymag.com/print/?/news/9-11/10th-anniversary/frank-rich/ ( […])
+[75]: http://creativecommons.org/licenses/by-nc/3.0/
