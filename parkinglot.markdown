@@ -172,94 +172,56 @@ chris@chriscorrigan.com
 
 		
 
-# A list of books in my library
+# Books and Papers
 
-Over the years people have asked me about the most important books in my library. 
-Here are the essentials, books that have been influential and which I continue 
-to consult and work with.
+### Books
 
-### Ways of hosting
+* 
+[The Tao of Holding Space][54]. The essence of Open Space Technology facilitation is known as “holding space.” This book explores the practice of holding space by reinterpreting the Tao te Ching. While written for Open Space facilitators, it has wide application across a number of facilitation approaches. This book is available for free.
+* 
+[Open Space Technology a User’s Non-Guide][55] Edited by Chris Corrigan and Michael Herman (.pdf). A companion to Harrison Owen’s Open Space Technology: A User’s Guide, this book is an edited conversation between 37 Open Space Technology practitioners. The book is available for free.
+* 
+[The Change Handbook][56]. The definitive guide to facilitating large scale change. I contributed material to the Open Space Technology chapter and experiences with mixing and matching methods.
+* 
+[The Ago of Conversation][57]. If ideas are the currency of our times then this is, undoubtedly, the Age of Conversation, for without the art of dialog, the cut and thrust of debate and discussion, then the economy of ideas would implode under its own heavy weight. Instead, the reverse is true. Far from seeing an implosion, we are living in a time of proliferation — ideas build upon ideas, discussion grows from seeds of thought and single headlines give rise to a thousand medusa-like simulations echoing words whispered somewhere on the other side of the planet. All this — in an instant. In what began as a half dare, the editors, Gavin Heaton and Drew McLellan challenged bloggers around the world to contribute one page — 400 words — on the topic of “conversation”. The resulting book, The Age of Conversation, brings together over 100 of the world’s leading marketers, writers, thinkers and creative innovators in a ground-breaking and unusual publication.
 
-Baldwin, Christina. _Calling the Circle: The first and future culture_
+### Interviews and podcasts
 
-Brown, Juanita and Isaacs, David, et. al. _The World Cafe: Shaping our Future 
-through conversations that matter_
+* 
+[Open Space Meetings][58] – from March 2010 an interview with me and two of my colleagues on using Open Space instead of traditional conference formats.
+* 
+[Living and Enjoying Open Spaces with Chris Corrigan][59] – a profile from [my university alumni magazine][60], published in June 2007.
+* 
+[The Tao of Holding Space][61] – An interview about my ebook and my facilitation practice published in [Fieldnotes Issue 12][62], from the Shambhala Institute.
+* 
+[On unconferencing][63] – a podcast conversation with Johnnie Moore and Rob Paterson on the future of unconferencing from July 4, 2005.
+* 
+[Free to do our work][64] (.pdf) – An online interview on empowerment, freedom and Spirit hosted by Doug Germann at [Footprints in the Wind][65] in March 2003.
 
-Herman, Michael and Corrigan, Chris (eds.) _Open Space Technology: A User’s 
-NON-Guide_
+### Papers and articles
 
-Holman, Peggy, Cady, Steve and Devane, Tom (eds). _The Change Handbook: Large 
-group methods for shaping the future._
+* 
+[Six observations about seeing][66] – a paper on the leadership capacity of seeing the world around us.
+* 
+[Language and Leadership for Dialogue][67] – a paper on useful language and leadership practices for convening dialogue
+* 
+[Open Space and the Legacy of Education][68] (.pdf) – A paper that uses John Taylor Gatto’s “[Seven Lesson Schoolteacher][69]” essay to explain why people experience freedom shock in Open Space.
 
-Isaacs, William. _Dialogue and the art of thinking together._
+### Online publishing
 
-Kaner, Sam et. al. _The Facilitator’s Guide to Participatory Decision Making_ 
+Since 2001 I have published two weblogs of my own.  They contain a wealth of 
+my writing and thinking.
 
-Owen, Harrison. _Open Space Technology: A User’s Guide_
+* [Parking Lot: Living in Open Space][70]
+* [Bowen Island Journal: Life in the Salish Sea][71]
 
-Owen, Harrison. _Expanding our Now: The story of Open Space Technology_
-
-Whitney, Dianna and Trosten-Bloom, A. _The power of appreciative inquiry: a 
-practical guide to positive change_
-
-### Ways of being in organization and community
-
-Atlee, Tom. _The Tao of Democracy_
-
-Cziksentmihaly, M. _Flow._
-
-Cziksentmihaly, M. _Good Business_
-
-Frost, Peter. _Toxic emotions at work_
-
-Herman, Michael. _The inviting organization emerges_
-
-Kahane, Adam. _Solving Tough Problems_
-
-Jaworski, J. _Synchronicity_
-
-Scharmer, Otto. _Theory U_
-
-Senge, Peter. _The Fifth Discipline_
-
-Senge, P., Scharmer, O., Jaworski J., Flowers BS. _Presence_
-
-Sutherland, Jessie _Worldview skills: transforming conflict from the inside 
-out_
-
-Wheatley, Margaret. _Leadership and the New Science_
-
-### Ways of seeing, practice and knowing
-
-Arrien, Angeles. _The Four Fold Way_
-
-Atleo, Richard (Umeek). _Tsawalk: A Nuu-Chah-Nulth Worldview_
-
-Beck, Don and Cowan, Chris****. _Spiral Dynamics_
-
-Capra, Fritjof. _The Web of Life_
-
-Chodron, Pema. _The places that scare you_
-
-Henderson, Julie. _Embodying Well-Being_
-
-Johnson, Basil. _Ojibway Ceremonies_
-
-Katie, Byron. _Loving what is._
-
-Lao Tzu. _Tao te Ching_
-
-Macy, Joanna and Brown, Molly. _Coming Back to Life: Practices to Reconnect 
-Our Lives, Our World_
-
-Wilber, Ken. _Sex, ecology and spirituality_
-
-Wilber, Ken. _A theory of everything_
+I have collected some of my most significant writing from over the years on 
+a page called [A Collection of Life’s Lessons][5].
 
 * Share:
 * 
 
-* [][54]
+* [][72]
 * 
 
 * 
@@ -280,7 +242,7 @@ Wilber, Ken. _A theory of everything_
 
 |
 
-[ ![][55]][56]Subscribe by email
+[ ![][73]][74]Subscribe by email
 
 |
 |
@@ -288,38 +250,38 @@ Wilber, Ken. _A theory of everything_
 |
 |
 
-[ ![][57]][2]Posts
+[ ![][75]][2]Posts
 
 |
 |
 
-[ ![][58]][59]Comments
+[ ![][76]][77]Comments
 
 |
 
 ### 
-[![RSS][60]][61] [Excellent reads][62]
+[![RSS][78]][79] [Excellent reads][80]
 
-* [Ten Points Everyone Should Know About the Quebec Student Movement | Coop média de Montréal][63]
-* [Birth of a Meme: The Rise of Culture Tech][64]
-* [The Rise of the New Groupthink - NYTimes.com][65]
-* [Confessions of a Recovering Environmentalist | Orion Magazine][66]
-* [Maggie: A Girl of the Streets and Other Writings About New York by Stephen Crane - read the free ebook now from ePub Bud!][67]
-* [One Town's War on Gay Teens | Politics News | Rolling Stone][68]
-* [ESPN - OTL: Test of Time - E-ticket][69]
-* [Lawrence Hilditch | Wounds Still Burn in Quiet Irish Village - Los Angeles Times][70]
-* [Responses | 2012 Annual Question | Edge][71]
-* [Day’s End][72]
+* [Ten Points Everyone Should Know About the Quebec Student Movement | Coop média de Montréal][81]
+* [Birth of a Meme: The Rise of Culture Tech][82]
+* [The Rise of the New Groupthink - NYTimes.com][83]
+* [Confessions of a Recovering Environmentalist | Orion Magazine][84]
+* [Maggie: A Girl of the Streets and Other Writings About New York by Stephen Crane - read the free ebook now from ePub Bud!][85]
+* [One Town's War on Gay Teens | Politics News | Rolling Stone][86]
+* [ESPN - OTL: Test of Time - E-ticket][87]
+* [Lawrence Hilditch | Wounds Still Burn in Quiet Irish Village - Los Angeles Times][88]
+* [Responses | 2012 Annual Question | Edge][89]
+* [Day’s End][90]
 
 |
 
 ----
 
-This page was forked with permission from [http://chriscorrigan.com/parkinglot/?page_id=1464][6]
+This page was forked with permission from [http://chriscorrigan.com/parkinglot/?page_id=1519][7]
 
 ----
 
-[Creative Commons license (CC BY-NC 3.0)][73]
+[Creative Commons license (CC BY-NC 3.0)][91]
 
 [1]: http://chriscorrigan.com/parkinglot/
 [2]: http://chriscorrigan.com/parkinglot/?feed=rss2 (Subscribe to the POSTS feed)
@@ -375,23 +337,41 @@ This page was forked with permission from [http://chriscorrigan.com/parkinglot/?
 [51]: http://chriscorrigan.com/parkinglot/?category_name=wordpress (Wordpress)
 [52]: http://chriscorrigan.com/parkinglot/?category_name=world-cafe (World Cafe)
 [53]: http://chriscorrigan.com/parkinglot/?category_name=youth (Youth)
-[54]: http://chriscorrigan.com/parkinglot/?page_id=1464&share=facebook (Share on Facebook)
-[55]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/feedburner-email.gif
-[56]: http://feedburner.google.com/fb/a/mailverify?uri=ChrisCorrigan&loc=en_US
-[57]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/post-feed.gif
-[58]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/comment-feed.gif
-[59]: http://chriscorrigan.com/parkinglot/?feed=comments-rss2
-[60]: http://chriscorrigan.com/parkinglot/wp-includes/images/rss.png
-[61]: http://www.instapaper.com/starred/rss/279400/pOmyeEKsb87ikH2bKSo8WtiY (Syndicate this content)
-[62]: http://www.instapaper.com/starred ()
-[63]: http://montreal.mediacoop.ca/story/ten-points-everyone-should-know-about-quebec-student-movement/10896 ( […])
-[64]: http://emergentbydesign.com/2012/05/03/birth-of-a-meme-the-rise-of-culture-tech/ ( […])
-[65]: http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=1&pagewanted=all ( […])
-[66]: http://www.orionmagazine.org/index.php/articles/article/6599/ ( […])
-[67]: http://www.epubbud.com/read.php?g=VDZJZ5Y5&p=57 ( […])
-[68]: http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202?print=true ( […])
-[69]: http://sports.espn.go.com/espn/eticket/story?page=111225/testcricket ( […])
-[70]: http://articles.latimes.com/print/1998/may/17/news/mn-50578 ( […])
-[71]: http://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation ( […])
-[72]: http://nymag.com/print/?/news/9-11/10th-anniversary/frank-rich/ ( […])
-[73]: http://creativecommons.org/licenses/by-nc/3.0/
+[54]: http://www.archive.org/details/TheTaoOfHoldingSpace
+[55]: http://www.chriscorrigan.com/openspace/nonguide5.pdf
+[56]: http://www.bkconnection.com/ProdDetails.asp?ID=9781576753798&PG=1&Type=AUTH&PCS=BKP
+[57]: http://www.lulu.com/content/1010564
+[58]: http://connectyourmeetings.com/2010/03/10/open-space-meetings/
+[59]: http://www.chriscorrigan.com/wiki/pmwiki.php?n=Main.LivingAndEnjoyingOpenSpacesWithChrisCorrigan
+[60]: http://www.trentmagazine.ca/vol38no2/vol38no2.pdf
+[61]: http://www.shambhalainstitute.org/Fieldnotes/Issue12/holding_space.php
+[62]: http://www.shambhalainstitute.org/Fieldnotes/index.html
+[63]: http://www.johnniemoore.com/blog/archives/001019.php
+[64]: http://www.chriscorrigan.com/papers/free%20to%20do%20our%20work.pdf
+[65]: http://www.footprintsinthewind.com/
+[66]: http://www.chriscorrigan.com/parkinglot/AboutSeeing.pdf
+[67]: http://www.chriscorrigan.com/parkinglot/LanguageAndLeadership.pdf
+[68]: http://www.chriscorrigan.com/papers/educationpaper.pdf
+[69]: http://sine.com/content/7-lesson-schoolteacher.shtml
+[70]: http://www.chriscorrigan.com/parkinglot
+[71]: http://www.chriscorrigan.com/miscellany/bijournal/blogger.html
+[72]: http://chriscorrigan.com/parkinglot/?page_id=1519&share=facebook (Share on Facebook)
+[73]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/feedburner-email.gif
+[74]: http://feedburner.google.com/fb/a/mailverify?uri=ChrisCorrigan&loc=en_US
+[75]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/post-feed.gif
+[76]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/comment-feed.gif
+[77]: http://chriscorrigan.com/parkinglot/?feed=comments-rss2
+[78]: http://chriscorrigan.com/parkinglot/wp-includes/images/rss.png
+[79]: http://www.instapaper.com/starred/rss/279400/pOmyeEKsb87ikH2bKSo8WtiY (Syndicate this content)
+[80]: http://www.instapaper.com/starred ()
+[81]: http://montreal.mediacoop.ca/story/ten-points-everyone-should-know-about-quebec-student-movement/10896 ( […])
+[82]: http://emergentbydesign.com/2012/05/03/birth-of-a-meme-the-rise-of-culture-tech/ ( […])
+[83]: http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=1&pagewanted=all ( […])
+[84]: http://www.orionmagazine.org/index.php/articles/article/6599/ ( […])
+[85]: http://www.epubbud.com/read.php?g=VDZJZ5Y5&p=57 ( […])
+[86]: http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202?print=true ( […])
+[87]: http://sports.espn.go.com/espn/eticket/story?page=111225/testcricket ( […])
+[88]: http://articles.latimes.com/print/1998/may/17/news/mn-50578 ( […])
+[89]: http://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation ( […])
+[90]: http://nymag.com/print/?/news/9-11/10th-anniversary/frank-rich/ ( […])
+[91]: http://creativecommons.org/licenses/by-nc/3.0/
