@@ -172,87 +172,90 @@ chris@chriscorrigan.com
 
 		
 
-# Music
+# Discography and sound samples
 
-A large part of my life is dedicated to playing music and especially traditional 
-Irish dance music on the wooden flute and guitar. I play and record in British 
-Columbia and frequently I appear on Bowen Island, at a variety of venues, festivals, 
-coffee houses and events. I also sing both in traditional modes and with an 
-Evensong chorale, singing liturgical music.
+## Here is is a complete list of the recordings I have appeared on.  Links on 
+this page will take you to sound samples and purchasing information.
 
-* [View my dsicography with sound samples and video links.][11]
-* [Learn more about the songs and tunes I have made over the years.][12]
+**Glass Walls **(1988)
 
-I have appeared on a number of recordings of traditional and contemporary music, 
-written the soundtrack for a play and had my music used in videos.
+Soundtrack for a play by Stephen Couchman, produced at Trent University.  Unreleased 
+recording.
 
-Over the years, my music has been broadcast on CiTR (Vancouver), Co-op Radio 
-(Vancouver), Trent Radio (Peterborough, Ontario) and the CBC, and has been 
-reviewed in fRoots and the Georgia Straight.
+**Rumours of Detah **(1989)
 
-Although more of a traditional folk musician, and therefore not focused on 
-performance, I have nevertheless appeared on stage at the Rogue Folk Club, 
-The Gulf Islands Celtic Music Festival, Endangered Speicies, Steveston Salmon 
-Festival, the Princeton Traditional Music Festival, BowFest, Northwest Folklife 
-in Seattle and the Vancouver Folk Music Festival among other musical gatherings 
-and venues.  On an off I have been active in music scenes in Peterborough, 
-Ontairo and Vancouver BC, and currently I perform and play as often as I can 
-on my home island of Bowen Island, BC.
+Wrote eight pieces to accompany the poetry of Louis Fagan in a travelogue poem 
+cycle called “Rumours of Detah.”  Performed at the Artspace Caberet, Peterbourough, 
+Ont.  Unreleased recording,
 
-I have had the pleasure of performing and recording with many interesting and 
-talented musicians over the years. On the Irish and traditional music side 
-this includes Randy Vic, Dave Marshall, Amy Stephen, Andy Hillhouse, Mark Roberts, 
-Steph Custer, Norah Rendell, Neil Hammond, Keona Hammond, John Bartlett, Ryka 
-Ruebsaat, Moritz Behm, Nora Rendell, Dan Compton, and Paul Hawtin. I have also 
-played with others from the jazz, folk, rock, classical and world music realms, 
-including Julie Vik, Chris Coon, John Bottomley, Shawn Pollinger, Jude Neale, 
-Alison Nixon, Pauline LeBel, Buff Allen, Shasta Martinuk and Brian Hoover. 
+**In The Heather** (2001)
 
-**Upcoming gigs**
+Album of traditional Irish music. I appear on flute and voice on the following 
+tracks
 
-**Regular gigs:**
+![][54]
 
 * 
-[Bowen Island Music Arts][54] open mic nights second thursday of every month, Happy Isle Cafe, Bowen Island.
+[Kavana’s Craic/The Punter’s Graveyeard/The Phoenix][55] (comp. Corrigan/Compton/Richardson) (click to hear the full track).
+* Eileen Ni Riordan’s/Going To The Well For Water/Open House
+* Rose In The Heather/Aaron’s Key/Kilfenora
+* T-Shirt In Winter Boys
+* Hand Me Down The Tackle/Pigeon On The Gate/The Banshee
+* Welcome Home Paddy
+* Humours Of Dingle/Banks Of Lough Gowna/Geese In The Bog/The Frost Is All Over
+
+I also wrote the liner notes for this album.
+
+**Lissen** (2001)
+
+A soundtrack for a science fiction film treatement. I appear on several tracks 
+on didgeridoo
+
+**Bowen Island Music Exchange** (2003)
+
+Compilation of Bowen Island musicians playing each other’s music
+
+* “Remedy” – Irish flute with Chris Coon on drums
+* “Hawtin’s Return” – Irish flute with Randy Vic on guitar and fiddle.
+
+A tune of mine, Farewell to Moy, also appeared on this recording recorded by 
+Corbin Keep and Julie Vik
+
+**[Snowin’ on Bowen][56]********** (2004)
+
+Compilation of Bowen Island musicians playing Christmas music.
+
+* “Myn Lyking”(trad. arr. Corrigan/MacKinnon/Nixon) – Flute and vocal with Carol MacKinnon on vocal and Alison Nixon on viola and vocal.
+* “This Young Child” (trad. arr Julie Vik) – Didgeridoo with Julie Vik on vocal and guitar, Rob Bailey on bass, Chris Coon on tablas, Corbin Keep on cello and Buff Allen on drums.
+
+**[Warming Up Winter][57]** (2005)
+
+Compilation of Bowen Island musicians playing Christmas music
+
+* “Holly” (Sean Pollinger) – Flute, whistle and didgeridoo, with Sean Pollinger on guitar and vocals.
+
+**Voices in the Sound** (2006)
+
+Album of songs from the [Pauline LeBel][58]‘s musical ”Voices in the Sound.” 
+I appear as part of the vocal chorus on the following tracks.
+
+* “Island Dream”
+* “The Web of Life”
+* “Long Live the Wilderness”
+
+**[License to Depart][59] **(2009)
+
+Chris Coon’s haunting retelling of the Odysseus story.  I play flute on one 
+track.
+
+* Odysseus Gates – Irish flute
 * 
-[Snug Irish session][55], Friday or Saturday nights, Sung Cafe, Bowen Island.
-
-### Instruments
-
-**Flutes and whistles**
-
-I play a six key Hammy Hamilton flute made of African Blackwood and a Casey 
-Burns keyless grenadilla flute. I play a bunch of cheap but useful Susato, 
-Generation and Walton whistles.
-
-**Guitar**
-
-I have two guitars. My pride and joy is a Larrivee D-03 (88823) made and purchased 
-in Vancouver BC in 2006. My old friend is a Yamaha FG-410, which I have had 
-since 1982. It’s nothing special, but I worked on it a little in 1986 to lower 
-the action (no mean feat without a truss rod, especially when you don’t know 
-what you’re doing!) and it has been a good friend for more than 25 years.
-
-**Didgeridoo**
-
-My didgeridoo was made by termites in Northern Australia and purchased in Perth, 
-Western Australia.
-
-**Djembe**
-
-I have a djembe made by Yendor from Cortes Island BC. It was passed to me by 
-my late father in law Peter Frost.
-
-**Voice**
-
-Courtesy of my parents, who provided the raw material for the vocal cords and 
-refined in my youth by singing along with Freddy Mercury for years. They must 
-not have felt like that was adequate payback, but it made me a true tenor. 
+[See a video interpretation of this track][60].
 
 * Share:
 * 
 
-* [][56]
+* [][61]
 * 
 
 * 
@@ -273,7 +276,7 @@ not have felt like that was adequate payback, but it made me a true tenor.
 
 |
 
-[ ![][57]][58]Subscribe by email
+[ ![][62]][63]Subscribe by email
 
 |
 |
@@ -281,38 +284,38 @@ not have felt like that was adequate payback, but it made me a true tenor.
 |
 |
 
-[ ![][59]][2]Posts
+[ ![][64]][2]Posts
 
 |
 |
 
-[ ![][60]][61]Comments
+[ ![][65]][66]Comments
 
 |
 
 ### 
-[![RSS][62]][63] [Excellent reads][64]
+[![RSS][67]][68] [Excellent reads][69]
 
-* [Ten Points Everyone Should Know About the Quebec Student Movement | Coop média de Montréal][65]
-* [Birth of a Meme: The Rise of Culture Tech][66]
-* [The Rise of the New Groupthink - NYTimes.com][67]
-* [Confessions of a Recovering Environmentalist | Orion Magazine][68]
-* [Maggie: A Girl of the Streets and Other Writings About New York by Stephen Crane - read the free ebook now from ePub Bud!][69]
-* [One Town's War on Gay Teens | Politics News | Rolling Stone][70]
-* [ESPN - OTL: Test of Time - E-ticket][71]
-* [Lawrence Hilditch | Wounds Still Burn in Quiet Irish Village - Los Angeles Times][72]
-* [Responses | 2012 Annual Question | Edge][73]
-* [Day’s End][74]
+* [Ten Points Everyone Should Know About the Quebec Student Movement | Coop média de Montréal][70]
+* [Birth of a Meme: The Rise of Culture Tech][71]
+* [The Rise of the New Groupthink - NYTimes.com][72]
+* [Confessions of a Recovering Environmentalist | Orion Magazine][73]
+* [Maggie: A Girl of the Streets and Other Writings About New York by Stephen Crane - read the free ebook now from ePub Bud!][74]
+* [One Town's War on Gay Teens | Politics News | Rolling Stone][75]
+* [ESPN - OTL: Test of Time - E-ticket][76]
+* [Lawrence Hilditch | Wounds Still Burn in Quiet Irish Village - Los Angeles Times][77]
+* [Responses | 2012 Annual Question | Edge][78]
+* [Day’s End][79]
 
 |
 
 ----
 
-This page was forked with permission from [http://chriscorrigan.com/parkinglot/?page_id=2241][10]
+This page was forked with permission from [http://chriscorrigan.com/parkinglot/?page_id=2243][11]
 
 ----
 
-[Creative Commons license (CC BY-NC 3.0)][75]
+[Creative Commons license (CC BY-NC 3.0)][80]
 
 [1]: http://chriscorrigan.com/parkinglot/
 [2]: http://chriscorrigan.com/parkinglot/?feed=rss2 (Subscribe to the POSTS feed)
@@ -368,25 +371,30 @@ This page was forked with permission from [http://chriscorrigan.com/parkinglot/?
 [51]: http://chriscorrigan.com/parkinglot/?category_name=wordpress (Wordpress)
 [52]: http://chriscorrigan.com/parkinglot/?category_name=world-cafe (World Cafe)
 [53]: http://chriscorrigan.com/parkinglot/?category_name=youth (Youth)
-[54]: http://musiconbowen.com/#/gigsjamsmics/4533492108
-[55]: http://snugsession.blogspot.com/
-[56]: http://chriscorrigan.com/parkinglot/?page_id=2241&share=facebook (Share on Facebook)
-[57]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/feedburner-email.gif
-[58]: http://feedburner.google.com/fb/a/mailverify?uri=ChrisCorrigan&loc=en_US
-[59]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/post-feed.gif
-[60]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/comment-feed.gif
-[61]: http://chriscorrigan.com/parkinglot/?feed=comments-rss2
-[62]: http://chriscorrigan.com/parkinglot/wp-includes/images/rss.png
-[63]: http://www.instapaper.com/starred/rss/279400/pOmyeEKsb87ikH2bKSo8WtiY (Syndicate this content)
-[64]: http://www.instapaper.com/starred ()
-[65]: http://montreal.mediacoop.ca/story/ten-points-everyone-should-know-about-quebec-student-movement/10896 ( […])
-[66]: http://emergentbydesign.com/2012/05/03/birth-of-a-meme-the-rise-of-culture-tech/ ( […])
-[67]: http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=1&pagewanted=all ( […])
-[68]: http://www.orionmagazine.org/index.php/articles/article/6599/ ( […])
-[69]: http://www.epubbud.com/read.php?g=VDZJZ5Y5&p=57 ( […])
-[70]: http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202?print=true ( […])
-[71]: http://sports.espn.go.com/espn/eticket/story?page=111225/testcricket ( […])
-[72]: http://articles.latimes.com/print/1998/may/17/news/mn-50578 ( […])
-[73]: http://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation ( […])
-[74]: http://nymag.com/print/?/news/9-11/10th-anniversary/frank-rich/ ( […])
-[75]: http://creativecommons.org/licenses/by-nc/3.0/
+[54]: http://web.archive.org/web/20071031210435/http://static.flickr.com/43/106864108_befcd87f35_t.jpg
+[55]: http://www.chriscorrigan.com/parkinglot/01%20Kavana's%20Craic_The%20Punter's%20Grave.mp3
+[56]: http://www.cdbaby.com/cd/snowinbowen
+[57]: http://www.cdbaby.com/cd/warmingwinter
+[58]: http://www.suncoastarts.com/paulinelebel.html
+[59]: http://www.cdbaby.com/cd/chriscoon
+[60]: http://www.youtube.com/watch?v=f6qW8wJ3Jjw
+[61]: http://chriscorrigan.com/parkinglot/?page_id=2243&share=facebook (Share on Facebook)
+[62]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/feedburner-email.gif
+[63]: http://feedburner.google.com/fb/a/mailverify?uri=ChrisCorrigan&loc=en_US
+[64]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/post-feed.gif
+[65]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/comment-feed.gif
+[66]: http://chriscorrigan.com/parkinglot/?feed=comments-rss2
+[67]: http://chriscorrigan.com/parkinglot/wp-includes/images/rss.png
+[68]: http://www.instapaper.com/starred/rss/279400/pOmyeEKsb87ikH2bKSo8WtiY (Syndicate this content)
+[69]: http://www.instapaper.com/starred ()
+[70]: http://montreal.mediacoop.ca/story/ten-points-everyone-should-know-about-quebec-student-movement/10896 ( […])
+[71]: http://emergentbydesign.com/2012/05/03/birth-of-a-meme-the-rise-of-culture-tech/ ( […])
+[72]: http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=1&pagewanted=all ( […])
+[73]: http://www.orionmagazine.org/index.php/articles/article/6599/ ( […])
+[74]: http://www.epubbud.com/read.php?g=VDZJZ5Y5&p=57 ( […])
+[75]: http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202?print=true ( […])
+[76]: http://sports.espn.go.com/espn/eticket/story?page=111225/testcricket ( […])
+[77]: http://articles.latimes.com/print/1998/may/17/news/mn-50578 ( […])
+[78]: http://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation ( […])
+[79]: http://nymag.com/print/?/news/9-11/10th-anniversary/frank-rich/ ( […])
+[80]: http://creativecommons.org/licenses/by-nc/3.0/
