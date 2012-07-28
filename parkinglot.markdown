@@ -172,32 +172,58 @@ chris@chriscorrigan.com
 
 		
 
-# The practice of balancing rocks
+# Welcome
 
-![][54] One of the practices I have cultivated for many years is the art of 
-rock balancing. I was initially inspired in this by watching rock balancing**** 
-artists along the waterfront in Vancouver in the mid nineties. I was amazed 
-at the serene beauty of large rocks balanced at improbable angles.
+![][54]
 
-When I began trying this for myself, I discovered that the practice is deeply 
-reflective and highly instructive. It is a calming meditation, inviting rocks 
-to find a balance with one another, and it is a lovely metaphor for the leadership 
-qualities of facilitating and holding space. Often, as part of the Art of Hosting 
-workshops I help teach, I offer [rock balancing**** as a morning practice][55], 
-to bring presence and calm to the day ahead.
+I am a process artist, a teacher and a facilitator of social technologies for 
+face to face conversation in the service of emergence. My business is supporting 
+invitation: the invitation to collaborate, to organize, to find one another 
+and make a difference in our communities, organizations and lives.
 
-If you would like to join me for an hour or two of rock balancing**** on Bowen 
-Island or elsewhere, please feel free to contact me. I’m always up for play. 
-I can also offer short workshops in conferences, gatherings and retreat.
+You can explore my work here:
 
-Since 2007 I have begun taking photographs of rocks I have balanced in various 
-places to which I have travelled. I invite you to enjoy a slide show of my 
-collection at [my flickr gallery.][56]
+* [Open Space Technology Resources][13]
+* [Facilitation Resources][9]
+* [Parking Lot: the weblog][1]
+
+In a changing and complex world, there are no answers, there is no certainty. 
+Leadership and questions are everywhere. We are called to be in active engagement 
+with the world around us, to make sense of things we are seeing and to act 
+on our visions and ideas for the good and benefit of all.
+
+The fundamental human capacities of this era are among the most ancient: invitation 
+and conversation. When we invite people to work with us, whoever shows up are 
+the right people. When we live a life of invitation, our work becomes about 
+making connections to make things happen. And once we have a group of people 
+acting on an invitation, deep and meaningful conversation becomes the way we 
+collaborate sustainably together to co-create the world we want.
+
+I work with organizations seeking to improve their work, communities seeking 
+to improve their future, people looking to improve their lives. I hold and 
+care for process – the ways in which we work together – to encourage people 
+to make their best possible contributions. I have an unflagging belief that 
+the answers and leadership we need arise out of collaboration and conversation. 
+By facilitating skillful dialogue, I do my best to hold space for futures to 
+emerge.
+
+Contact me at:
+
+> 
+> Chris Corrigan  
+>  RR#1 E3  
+>  Bowen Island, BC, Canada  
+>  VON 1G0
+> 
+> 604 947 9236
+> 
+> [chris@chriscorrigan.com][55]
+> 
 
 * Share:
 * 
 
-* [][57]
+* [][56]
 * 
 
 * 
@@ -218,7 +244,7 @@ collection at [my flickr gallery.][56]
 
 |
 
-[ ![][58]][59]Subscribe by email
+[ ![][57]][58]Subscribe by email
 
 |
 |
@@ -226,38 +252,38 @@ collection at [my flickr gallery.][56]
 |
 |
 
-[ ![][60]][2]Posts
+[ ![][59]][2]Posts
 
 |
 |
 
-[ ![][61]][62]Comments
+[ ![][60]][61]Comments
 
 |
 
 ### 
-[![RSS][63]][64] [Excellent reads][65]
+[![RSS][62]][63] [Excellent reads][64]
 
-* [Ten Points Everyone Should Know About the Quebec Student Movement | Coop média de Montréal][66]
-* [Birth of a Meme: The Rise of Culture Tech][67]
-* [The Rise of the New Groupthink - NYTimes.com][68]
-* [Confessions of a Recovering Environmentalist | Orion Magazine][69]
-* [Maggie: A Girl of the Streets and Other Writings About New York by Stephen Crane - read the free ebook now from ePub Bud!][70]
-* [One Town's War on Gay Teens | Politics News | Rolling Stone][71]
-* [ESPN - OTL: Test of Time - E-ticket][72]
-* [Lawrence Hilditch | Wounds Still Burn in Quiet Irish Village - Los Angeles Times][73]
-* [Responses | 2012 Annual Question | Edge][74]
-* [Day’s End][75]
+* [Ten Points Everyone Should Know About the Quebec Student Movement | Coop média de Montréal][65]
+* [Birth of a Meme: The Rise of Culture Tech][66]
+* [The Rise of the New Groupthink - NYTimes.com][67]
+* [Confessions of a Recovering Environmentalist | Orion Magazine][68]
+* [Maggie: A Girl of the Streets and Other Writings About New York by Stephen Crane - read the free ebook now from ePub Bud!][69]
+* [One Town's War on Gay Teens | Politics News | Rolling Stone][70]
+* [ESPN - OTL: Test of Time - E-ticket][71]
+* [Lawrence Hilditch | Wounds Still Burn in Quiet Irish Village - Los Angeles Times][72]
+* [Responses | 2012 Annual Question | Edge][73]
+* [Day’s End][74]
 
 |
 
 ----
 
-This page was forked with permission from [http://chriscorrigan.com/parkinglot/?page_id=1460][15]
+This page was forked with permission from [http://chriscorrigan.com/parkinglot/?page_id=2][16]
 
 ----
 
-[Creative Commons license (CC BY-NC 3.0)][76]
+[Creative Commons license (CC BY-NC 3.0)][75]
 
 [1]: http://chriscorrigan.com/parkinglot/
 [2]: http://chriscorrigan.com/parkinglot/?feed=rss2 (Subscribe to the POSTS feed)
@@ -313,26 +339,25 @@ This page was forked with permission from [http://chriscorrigan.com/parkinglot/?
 [51]: http://chriscorrigan.com/parkinglot/?category_name=wordpress (Wordpress)
 [52]: http://chriscorrigan.com/parkinglot/?category_name=world-cafe (World Cafe)
 [53]: http://chriscorrigan.com/parkinglot/?category_name=youth (Youth)
-[54]: http://farm1.static.flickr.com/170/393642023_c5d73a407b_m.jpg
-[55]: http://www.flickr.com/photos/chriscorrigan/304059688/in/set-72157594486006613/
-[56]: http://www.flickr.com/photos/chriscorrigan/sets/72157594486006613/show/
-[57]: http://chriscorrigan.com/parkinglot/?page_id=1460&share=facebook (Share on Facebook)
-[58]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/feedburner-email.gif
-[59]: http://feedburner.google.com/fb/a/mailverify?uri=ChrisCorrigan&loc=en_US
-[60]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/post-feed.gif
-[61]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/comment-feed.gif
-[62]: http://chriscorrigan.com/parkinglot/?feed=comments-rss2
-[63]: http://chriscorrigan.com/parkinglot/wp-includes/images/rss.png
-[64]: http://www.instapaper.com/starred/rss/279400/pOmyeEKsb87ikH2bKSo8WtiY (Syndicate this content)
-[65]: http://www.instapaper.com/starred ()
-[66]: http://montreal.mediacoop.ca/story/ten-points-everyone-should-know-about-quebec-student-movement/10896 ( […])
-[67]: http://emergentbydesign.com/2012/05/03/birth-of-a-meme-the-rise-of-culture-tech/ ( […])
-[68]: http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=1&pagewanted=all ( […])
-[69]: http://www.orionmagazine.org/index.php/articles/article/6599/ ( […])
-[70]: http://www.epubbud.com/read.php?g=VDZJZ5Y5&p=57 ( […])
-[71]: http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202?print=true ( […])
-[72]: http://sports.espn.go.com/espn/eticket/story?page=111225/testcricket ( […])
-[73]: http://articles.latimes.com/print/1998/may/17/news/mn-50578 ( […])
-[74]: http://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation ( […])
-[75]: http://nymag.com/print/?/news/9-11/10th-anniversary/frank-rich/ ( […])
-[76]: http://creativecommons.org/licenses/by-nc/3.0/
+[54]: http://static.flickr.com/30/64734461_1c04960675_m.jpg
+[55]: mailto:chris@chriscorrigan.com
+[56]: http://chriscorrigan.com/parkinglot/?page_id=2&share=facebook (Share on Facebook)
+[57]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/feedburner-email.gif
+[58]: http://feedburner.google.com/fb/a/mailverify?uri=ChrisCorrigan&loc=en_US
+[59]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/post-feed.gif
+[60]: http://chriscorrigan.com/parkinglot/wp-content/themes/atahualpa36/images/comment-feed.gif
+[61]: http://chriscorrigan.com/parkinglot/?feed=comments-rss2
+[62]: http://chriscorrigan.com/parkinglot/wp-includes/images/rss.png
+[63]: http://www.instapaper.com/starred/rss/279400/pOmyeEKsb87ikH2bKSo8WtiY (Syndicate this content)
+[64]: http://www.instapaper.com/starred ()
+[65]: http://montreal.mediacoop.ca/story/ten-points-everyone-should-know-about-quebec-student-movement/10896 ( […])
+[66]: http://emergentbydesign.com/2012/05/03/birth-of-a-meme-the-rise-of-culture-tech/ ( […])
+[67]: http://www.nytimes.com/2012/01/15/opinion/sunday/the-rise-of-the-new-groupthink.html?_r=1&pagewanted=all ( […])
+[68]: http://www.orionmagazine.org/index.php/articles/article/6599/ ( […])
+[69]: http://www.epubbud.com/read.php?g=VDZJZ5Y5&p=57 ( […])
+[70]: http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202?print=true ( […])
+[71]: http://sports.espn.go.com/espn/eticket/story?page=111225/testcricket ( […])
+[72]: http://articles.latimes.com/print/1998/may/17/news/mn-50578 ( […])
+[73]: http://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation ( […])
+[74]: http://nymag.com/print/?/news/9-11/10th-anniversary/frank-rich/ ( […])
+[75]: http://creativecommons.org/licenses/by-nc/3.0/
